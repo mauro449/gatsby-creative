@@ -40,7 +40,7 @@ export default class IndexPage extends React.Component {
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-lg-8 text-center">
-                <h2 className="text-white mt-0">TEST TEST IPSUM</h2>
+                <h2 className="text-white mt-0">GV</h2>
                 <hr className="divider light my-4"/>
                 <p className="text-white-50 mb-4">Start Bootstrap has everything you need to get your new website up
                   and
@@ -189,15 +189,15 @@ export default class IndexPage extends React.Component {
               <div className="col-lg-8 text-center">
                 <h2 className="mt-0">Let's Get In Touch!</h2>
                 <hr className="divider my-4"/>
-                <p className="text-muted mb-5">Ready to  start with us? Give us a call or send us an
+                <p className="text-muted mb-5">Bready to  start with us? Give us a call or send us an
                   email
-                  and we wittttttck to you as soon as possible!</p>
+                  and we wizttck to you as soon as possible!</p>
               </div>
             </div>
             <div className="row">
               <div className="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
                 <i className="fas fa-phone fa-3x mb-3 text-muted"></i>
-                <div>+1 (305) 204-9449</div>
+                <div>+1 (305) 204-9129</div>
               </div>
               <div className="col-lg-4 mr-auto text-center">
                 <i className="fas fa-envelope fa-3x mb-3 text-muted"></i>
